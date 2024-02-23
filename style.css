@@ -1,0 +1,12 @@
+
+.raleway-uniquifier {
+  font-family: "Raleway", sans-serif;
+ 
+}
+.btn-bg{
+  background-color: gray;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px 10px;
+  width: 100%;
+}
